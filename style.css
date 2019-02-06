@@ -1,0 +1,155 @@
+*{
+	margin:0;
+	padding: 0;
+	
+}
+.main{
+	height: 80px;
+	background-color: #0f7eb0;
+	box-sizing: border-box;
+	border-bottom: #cddc39 5px solid;
+
+}
+nav{
+	float: right;
+	line-height: 80px;
+	
+}
+nav li{
+
+	list-style: none;
+	float: left;
+	border-radius: 20px;
+}
+
+nav li a{
+	list-style: none;
+	text-decoration: none;
+	padding: 30px;
+	font-size: 20px;
+	font-family: 'Acme', sans-serif;
+	color: #cddc39;	
+	
+	
+}
+nav li a:hover{
+	color:green;
+	transition: .5s;
+}
+.infobox{
+	background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    height: 500px;
+    width: 100%;
+}
+	
+.imgbox {
+    width: 600px;
+    height: 250px;
+    padding: 100px;
+    text-align: center;
+    margin: auto;
+    margin-top: 2%;
+    color: #0d4966;;
+    background-image: url(background2.jpeg);
+    background-size: cover;
+    border-radius: 40%;
+
+}
+.hobbies{
+    height:600px;
+    width: 100%;
+    float: left;
+    display: block;
+
+}
+.hobing{
+    width: 50%;
+}
+img{
+
+
+    max-width: 100%;
+    display: block;
+    width: 76%;
+    float: left;
+}
+}
+    
+
+.para{
+    position: absolute;
+    left: 55%;
+    text-align: justify;
+    transform: translate(-10%, -90%);
+    box-sizing: border-box;
+    height: 400px;
+    width: 700px;
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    background-color: #0003;
+    border-radius: 10%;
+    margin-bottom: 30%;
+    border-bottom: #0008 9px solid;
+}
+.QUOTE{
+	height: 800px;
+	width: 100%;
+	margin-top: 30px;
+
+}
+.quotation{
+	
+    border-bottom: #0008 9px solid;
+    background-image: url(image/img4.png);
+    margin-right: 30px;
+    position: absolute;
+    right: 50%;
+    text-align: justify;
+    transform: translate(33%, 30%);
+    box-sizing: border-box;
+    height: 166px;
+    width: 877px;
+    padding: 31px 40px 40px 40px;
+    background-color: #0003;
+    border-radius: 40%;
+    margin-top: 561px;
+
+}
+blockquote{
+	border-width: 2px;
+	border-radius: 50%;
+}
+
+.billpic img{
+    height: 25%;
+    width: 25%;
+    float: right;
+   }
+   .List{
+   	height: 600px;
+  }
+  .list h2 u{
+  	color:blue;
+  }
+  .list h3{
+  	font-size: 5px;
+  }
+  .list table ,th, td {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 3px;
+
+}
+
+.list table,tr,td
+{
+	  border: 1px solid black;
+    margin: 10px;
+    padding: 3px;
+}
